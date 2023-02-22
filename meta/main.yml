@@ -1,5 +1,4 @@
 galaxy_info:
-  role_name: lighthouse-role
   author: Artem Grod  
   description: Instal lighthouse on host
   company: your company (optional)
