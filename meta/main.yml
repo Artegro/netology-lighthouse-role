@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: lighthouse
   author: Artem Grod  
   description: Instal lighthouse on host
   company: your company (optional)
@@ -28,10 +29,10 @@ galaxy_info:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
   platforms:
-  - name: Centos
-    versions:
-      - 7
-      - 8
+    - name: Centos
+      versions:
+        - 7
+        - 8
   # - name: SomePlatform
   #   versions:
   #   - all
